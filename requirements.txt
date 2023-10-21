@@ -1,0 +1,4 @@
+mcpi==1.2.1
+mcpi-e==0.3.2006.2
+Pillow==10.1.0
+webcolors==1.13
