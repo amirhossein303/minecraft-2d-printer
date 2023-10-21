@@ -1,4 +1,4 @@
-# Minecrafat image printer
+# Minecraft image printer
 
 ## Description
 use this program to print your picture in minecraft world, it's a 2D printer, making this program to create 3D objects, is TODO (not so hard to do)
